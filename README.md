@@ -1,4 +1,4 @@
-# Exercício 3
+# Exercício 2
 
 ### Disponibilizado em: 22/05/2018
 ### Entrega: 29/05/2018 às 15h
@@ -172,6 +172,7 @@ https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-scienc
 
 #### Artigos 12
 Locating ethics in data science: responsibility and accountability in global and distributed knowledge production systems Sabina Leonelli Phil. Trans. R. Soc. A 2016 374 20160122; DOI: 10.1098/rsta.2016.0122. Published 14 November 2016 http://rsta.royalsocietypublishing.org/content/374/2083/20160122
+
 How the machine ‘thinks’: Understanding opacity in machine learning algorithms. 2016. Jenna Burrell. Big Data & Society https://doi.org/10.1177/2053951715622512
 
 #### Artigos 13
